@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>MunchingMeans</title>
+  <!-- Our CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="styles.css">
+  <script type= "text/javascript" src= "static/js/choropleth.js"></script>
+</head>
+
+<body>
+ 
+  <!-- Our Title -->
+  <div class="container">
+    <div class="ProjectTitle">
+      <header>
+        <h1>Food Insecurity & its Relation to Income</h1>
+      </header>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="DescHypo">
+      <h2>Hypothesis & Project Description</h2>
+        <hr>
+        <p>
+        <b>We hypothesize that there is a correlation between the consumption of healthy foods and the income level of households across the United States.</b>
+        We will determine this correlation by analyzing the relationship between consumption, food types, and income levels. In our project, we'll generate 
+        an interactive map that allows the user to select various objects such as different food types and income levels and in return, will display the consumption.
+        We will showcase a map that displays the distance between low-income households and their accessibility to grocery stores within a given area. In addition,
+        by measuring household income by commodity consumption we can gather a sound conclusion to either reject or accept our theory. 
+        
+        </p>
+    </div>
+  </div>
+
+  <div class="container">
+  <div id = "map"></div>
+    <div class="Info">
+      <h2>United States Choropleth</h2>
+      <hr>
+      <p>US Choropleth with updating layers based on user-click of one of three buttons below (purple circles). Bivalate choropleth for income vs food availability 
+        and individual choropleth for each variable</p> 
+    </div>
+  </div> 
+
+  <div class="navbar">
+    <nav class="navbar navbar-light bg-light">
+      <form class="form-inline">
+        <button class="btn btn-outline-success btn-lg" type="button">Bivalate Choropleth</button>
+        <button class="btn btn-outline-success btn-lg" type="button">Income vs Food</button>
+        <button class="btn btn-outline-success btn-lg" type="button">Individual Choropleth</button>
+      </form>
+    </nav>
+  </div>
+
+  <div class="row">
+    <div class="col-md-6">
+      <div class="Radial Bar Chart">
+        <h2>Radial Bar Chart of Consumption</h2>
+        <hr>
+        <p>Insert description of the chart above.</p>
+        <a href="#" class="btn btn-primary" role="button">Click Here</a>
+        <p>Here is our interpretation of the graph above.</p>
+      </div>
+    </div>
+
+    <div class="col-md-6">
+      <div class="Density Contour">
+        <h2>Density Contour of Food Deserts vs Income</h2>
+        <hr>
+        <p>Insert description of the chart above.</p>
+        <a href="#" class="btn btn-primary" role="button">Click Here</a>
+        <p>Insert interpreation of graph above</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- D3 -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.5.0/d3.min.js"></script>
+  <!-- API key -->
+  <script type="text/javascript" src="static/js/config.js"></script>
+  <!-- Our JavaScript -->
+  <script type="text/javascript" src="static/js/logic.js"></script>
+</body>
+
+</html>

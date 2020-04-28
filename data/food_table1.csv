@@ -1,0 +1,95 @@
+Food group,Total,At home,Away from home,,,,
+,,,Total,Restaurant,Fast food,School,Other
+Fruits (cups),,,,,,,
+   Total population1,1.05,0.94,0.12,0.02,0.02,0.03,0.05
+      Children2,1.08,0.9,0.18,0.01,0.02,0.1,0.05
+      Adults2,1.05,0.95,0.1,0.02,0.02,0,0.06
+      Lower income3,1.01,0.89,0.12,0.02,0.01,0.04,0.05
+      Higher income3,1.08,0.96,0.11,0.02,0.02,0.02,0.05
+Vegetables: total (cups),,,,,,,
+   Total population1,1.42,0.96,0.47,0.18,0.17,0.02,0.1
+      Children2,0.92,0.59,0.33,0.07,0.14,0.07,0.05
+      Adults2,1.59,1.08,0.51,0.21,0.18,0.01,0.11
+      Lower income3,1.26,0.88,0.38,0.11,0.16,0.03,0.08
+      Higher income3,1.53,1.01,0.52,0.22,0.17,0.02,0.11
+Vegetables: dark green (cups),,,,,,,
+   Total population1,0.11,0.08,0.03,0.02,0.01,0,0.01
+      Children2,0.05,0.04,0.01,0.01,0,0,0
+      Adults2,0.14,0.1,0.04,0.02,0.01,0,0.01
+      Lower income3,0.08,0.07,0.02,0.01,0,0,0.01
+      Higher income3,0.13,0.1,0.04,0.02,0.01,0,0.01
+Vegetables: red and orange (cups),,,,,,,
+   Total population1,0.37,0.26,0.11,0.04,0.04,0.01,0.02
+      Children2,0.27,0.17,0.09,0.02,0.04,0.02,0.02
+      Adults2,0.4,0.28,0.12,0.05,0.05,0,0.03
+      Lower income3,0.33,0.24,0.09,0.03,0.04,0.01,0.02
+      Higher income3,0.39,0.27,0.13,0.05,0.05,0.01,0.03
+Vegetables: tomatoes (cups),,,,,,,
+   Total population1,0.28,0.19,0.1,0.03,0.04,0.01,0.02
+      Children2,0.22,0.13,0.08,0.02,0.04,0.02,0.01
+      Adults2,0.31,0.21,0.1,0.04,0.04,0,0.02
+      Lower income3,0.26,0.18,0.08,0.02,0.04,0.01,0.01
+      Higher income3,0.3,0.19,0.11,0.04,0.04,0,0.02
+Vegetables: potatoes (cups),,,,,,,
+   Total population1,0.35,0.22,0.13,0.04,0.05,0.01,0.03
+      Children2,0.29,0.17,0.11,0.02,0.06,0.02,0.01
+      Adults2,0.37,0.24,0.13,0.05,0.05,0,0.03
+      Lower income3,0.34,0.22,0.11,0.03,0.06,0.01,0.02
+      Higher income3,0.36,0.22,0.14,0.05,0.05,0,0.03
+Dairy (cups),,,,,,,
+   Total population1,1.77,1.32,0.45,0.1,0.19,0.08,0.08
+      Children2,2.16,1.52,0.64,0.08,0.2,0.29,0.08
+      Adults2,1.64,1.26,0.38,0.11,0.19,0.01,0.08
+      Lower income3,1.67,1.26,0.41,0.06,0.18,0.11,0.06
+      Higher income3,1.83,1.36,0.47,0.13,0.2,0.06,0.09
+Grains: total (ounces),,,,,,,
+   Total population1,6.46,4.46,2,0.53,0.9,0.14,0.43
+      Children2,6.46,4.43,2.03,0.31,0.84,0.5,0.37
+      Adults2,6.47,4.48,1.99,0.61,0.92,0.02,0.45
+      Lower income3,6.34,4.53,1.82,0.38,0.88,0.19,0.37
+      Higher income3,6.54,4.43,2.11,0.63,0.91,0.11,0.46
+Grains: refined (ounces),,,,,,,
+   Total population1,5.68,3.75,1.93,0.51,0.89,0.13,0.4
+      Children2,5.84,3.87,1.97,0.3,0.84,0.48,0.35
+      Adults2,5.63,3.71,1.92,0.58,0.91,0.02,0.41
+      Lower income3,5.67,3.9,1.77,0.37,0.87,0.18,0.35
+      Higher income3,5.69,3.65,2.04,0.6,0.9,0.1,0.43
+Grains: whole (ounces),,,,,,,
+   Total population1,0.78,0.72,0.06,0.02,0.01,0.01,0.03
+      Children2,0.62,0.56,0.06,0.01,0,0.03,0.02
+      Adults2,0.83,0.77,0.07,0.02,0.01,0,0.03
+      Lower income3,0.67,0.62,0.05,0.01,0.01,0.01,0.02
+      Higher income3,0.85,0.77,0.07,0.02,0.01,0.01,0.03
+Protein foods (ounces),,,,,,,
+   Total population1,5.68,3.83,1.85,0.65,0.72,0.09,0.39
+      Children2,4.33,2.88,1.45,0.28,0.63,0.31,0.22
+      Adults2,6.13,4.15,1.98,0.77,0.75,0.02,0.44
+      Lower income3,5.29,3.67,1.62,0.45,0.71,0.12,0.33
+      Higher income3,5.93,3.94,1.99,0.77,0.73,0.07,0.42
+Added sugars (tsp),,,,,,,
+   Total population1,17.73,13.17,4.56,0.98,1.59,0.28,1.72
+      Children2,18.43,13.17,5.26,0.87,1.7,0.99,1.7
+      Adults2,17.5,13.17,4.33,1.01,1.55,0.04,1.73
+      Lower income3,18.59,14.26,4.32,0.78,1.67,0.38,1.51
+      Higher income3,17.18,12.48,4.71,1.1,1.54,0.21,1.86
+Oils (grams),,,,,,,
+   Total population1,21.15,13.75,7.4,2.38,3.16,0.39,1.47
+      Children2,17.97,11.3,6.67,1.17,3.19,1.33,0.98
+      Adults2,22.2,14.56,7.64,2.78,3.15,0.08,1.64
+      Lower income3,19.12,12.84,6.28,1.56,3.1,0.48,1.15
+      Higher income3,22.43,14.32,8.11,2.9,3.2,0.33,1.68
+Solid fats (grams),,,,,,,
+   Total population1,37.44,24.44,13,3.53,5.51,0.88,3.08
+      Children2,36.08,23.29,12.79,2.02,5.13,3.18,2.47
+      Adults2,37.89,24.82,13.07,4.03,5.64,0.12,3.28
+      Lower income3,35.72,24.09,11.63,2.48,5.48,1.21,2.46
+      Higher income3,38.53,24.67,13.86,4.19,5.53,0.67,3.47
+Note: see Dietary Guidelines for Americans 2010 (p. 80) for definition of food group.   ,,,,,,,
+,,,,,,,
+"1Individuals who completed two-day intake recalls, were 2 years and older, and were not pregnant or lactating.",,,,,,,
+,,,,,,,
+2Children are those age 2-19 and adults are age 20 and older.,,,,,,,
+,,,,,,,
+3The 185 percent income poverty line is the income threshold separating lower and higher income households. ,,,,,,,
+,,,,,,,
+"Source: 2007-10 National Health and Nutrition Examination Survey (NHANES), two-day averages.",,,,,,,
